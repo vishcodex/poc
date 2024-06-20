@@ -11,7 +11,6 @@ import os
 
 app = FastAPI()
 
-
 class TravelQuery(BaseModel):
     query: str
     travel_date: date
