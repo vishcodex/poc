@@ -4,7 +4,7 @@ from pydantic import BaseModel
 from datetime import date
 from langchain.llms import OpenAI
 from langchain.prompts import ChatPromptTemplate
-from langchain.chains import
+# from langchain.chains import
 import os
 
 # openai.api_key = ""
